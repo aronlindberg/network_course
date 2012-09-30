@@ -13,5 +13,5 @@
 number of nodes: 388
 number of edges: 3598 
 number of connected components: 20 
-size of largest connected component: 0.8 
-maximum degree: 0.05154639
+size of largest connected component: .8 
+maximum degree: .05154639
